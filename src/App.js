@@ -54,7 +54,7 @@ function App() {
         <span>{cep.localidade} - {cep.uf}</span>
 
       </main>
-      )};
+      )}
     </div>
   );
 }
